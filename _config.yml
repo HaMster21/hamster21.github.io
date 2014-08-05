@@ -1,30 +1,29 @@
-title:            HMFAYSAL V2
-tagline:          Life without Pants!
-description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+title:            HaMster's blog on GitHub
+tagline:          Where nothing of interest is published just yet
+description:      This is going to be filled with some content as soon as the theme works
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://v2.theevilgenius.tk
+url:              http://hamster21.github.io
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Hans Meyer
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  bio:            ""
+  email:          hamster.of.dev@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
+  twitter:        
+  facebook:       
+  github:         hamster21
   linkedin:       
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-4
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -47,7 +46,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europ/Berlin
 future:      true
 pygments:    true
 markdown:    kramdown
